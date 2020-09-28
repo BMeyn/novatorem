@@ -18,4 +18,4 @@
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 
 
-[![Spotify](https://bmeyn.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://bmeyn.vercel.app/api/spotify)](https://open.spotify.com/user/1142855884)
