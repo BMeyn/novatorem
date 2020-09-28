@@ -16,3 +16,6 @@
   </table>
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+
+
+[![Spotify](https://bmeyn.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
